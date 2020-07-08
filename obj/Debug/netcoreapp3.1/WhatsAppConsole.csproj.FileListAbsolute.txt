@@ -1,0 +1,13 @@
+C:\Users\cristina dias\Desktop\WhatsAppConsole\bin\Debug\netcoreapp3.1\WhatsAppConsole.exe
+C:\Users\cristina dias\Desktop\WhatsAppConsole\bin\Debug\netcoreapp3.1\WhatsAppConsole.deps.json
+C:\Users\cristina dias\Desktop\WhatsAppConsole\bin\Debug\netcoreapp3.1\WhatsAppConsole.runtimeconfig.json
+C:\Users\cristina dias\Desktop\WhatsAppConsole\bin\Debug\netcoreapp3.1\WhatsAppConsole.runtimeconfig.dev.json
+C:\Users\cristina dias\Desktop\WhatsAppConsole\bin\Debug\netcoreapp3.1\WhatsAppConsole.dll
+C:\Users\cristina dias\Desktop\WhatsAppConsole\bin\Debug\netcoreapp3.1\WhatsAppConsole.pdb
+C:\Users\cristina dias\Desktop\WhatsAppConsole\obj\Debug\netcoreapp3.1\WhatsAppConsole.csprojAssemblyReference.cache
+C:\Users\cristina dias\Desktop\WhatsAppConsole\obj\Debug\netcoreapp3.1\WhatsAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\cristina dias\Desktop\WhatsAppConsole\obj\Debug\netcoreapp3.1\WhatsAppConsole.AssemblyInfoInputs.cache
+C:\Users\cristina dias\Desktop\WhatsAppConsole\obj\Debug\netcoreapp3.1\WhatsAppConsole.AssemblyInfo.cs
+C:\Users\cristina dias\Desktop\WhatsAppConsole\obj\Debug\netcoreapp3.1\WhatsAppConsole.dll
+C:\Users\cristina dias\Desktop\WhatsAppConsole\obj\Debug\netcoreapp3.1\WhatsAppConsole.pdb
+C:\Users\cristina dias\Desktop\WhatsAppConsole\obj\Debug\netcoreapp3.1\WhatsAppConsole.genruntimeconfig.cache
