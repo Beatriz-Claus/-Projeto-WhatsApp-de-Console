@@ -4,11 +4,13 @@ using System.IO;
 using System.Linq;
 
 namespace WhatsAppConsole {
+
     public class Agenda : IAgenda {
+
         List<Contato> contatos = new List<Contato> ();
         private const string PATH = "Database/contato.csv";
 
-        //Criando pasta e arquivo
+        //Estou Criando pasta e arquivo
 
         public Agenda () {
 
@@ -54,6 +56,7 @@ namespace WhatsAppConsole {
         /// Remove um contato
         /// </summary>
         /// <param name="Remover"></param>
+        
         public void Excluir (String _contato) {
 
             List<string> linhas = new List<string> ();
